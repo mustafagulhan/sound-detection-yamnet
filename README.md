@@ -94,4 +94,4 @@ The system detects the following emergency vehicle sounds:
 
 ## Contact
 Mustafa Gülhan - [Github](https://github.com/mustafagulhan)
-Project Kaggle Link: [Kaggle]()
+Project Kaggle Link: [Kaggle](https://www.kaggle.com/code/mustafagulhan/emergency-vehicle-siren-detection-using-yamnet)
